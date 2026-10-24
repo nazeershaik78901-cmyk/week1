@@ -1,0 +1,5 @@
+USER PROMPT:
+Say hello to IV B.Tech CSE students in exactly one sentence.
+
+MODEL RESPONSE:
+Hello to all IV B.Tech CSE students—wishing you a fantastic semester filled with learning and innovation!
